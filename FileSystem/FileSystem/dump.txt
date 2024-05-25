@@ -1,0 +1,8 @@
+Diretório Atual: /
+Arquivos:
+Diretórios:
+//a
+/
+Permissões:
+//a: 755
+/: 755

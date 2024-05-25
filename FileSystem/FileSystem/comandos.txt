@@ -1,0 +1,4 @@
+mkdir /a
+mkdir 
+chmod /a 755
+chmod  755
